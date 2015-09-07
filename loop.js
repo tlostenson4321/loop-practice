@@ -12,5 +12,7 @@
 //  	console.log(third[i]);
 //  } dont think this counts but oh well
 
-for (var i = 0; i <=10; i+=2)
+// for (var i = 0; i <=10; i+=2)
+// 	console.log(i)
+for (var i = 3; i < 16; i+=3)
 	console.log(i)
