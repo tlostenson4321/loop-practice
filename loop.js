@@ -6,8 +6,8 @@
  // 	console.log(second);
  // }
 
-// var third = [1, 1, 1, 2, 2, 2, 3, 3, 3];
+var third = [1, 1, 1, 2, 2, 2, 3, 3, 3];
 
- for (var i =1; i < 4; (i = i) (i=i) (i=i)(i=i+1)){ 
- 	console.log(i);
- }\
+ for (var i =0; i < 9; i++ ){ 
+ 	console.log(third[i]);
+ }
