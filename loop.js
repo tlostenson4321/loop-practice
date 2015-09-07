@@ -6,8 +6,11 @@
  // 	console.log(second);
  // }
 
-var third = [1, 1, 1, 2, 2, 2, 3, 3, 3];
+// var third = [1, 1, 1, 2, 2, 2, 3, 3, 3];
 
- for (var i =0; i < 9; i++ ){ 
- 	console.log(third[i]);
- }
+//  for (var i =0; i < 9; i++ ){ 
+//  	console.log(third[i]);
+//  } dont think this counts but oh well
+
+for (var i = 0; i <=10; i+=2)
+	console.log(i)
