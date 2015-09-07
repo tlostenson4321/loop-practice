@@ -16,5 +16,14 @@
 // 	console.log(i)
 // for (var i = 3; i < 16; i+=3)
 // 	console.log(i)
-for (var i = 9; i >=0; i-- )
-	console.log(i)
+// for (var i = 9; i >=0; i-- )
+// 	console.log(i)
+// for ( var i = 0; i > 4; )
+var i =
+do {
+	i++
+}
+
+while ( i < 3);
+}
+
